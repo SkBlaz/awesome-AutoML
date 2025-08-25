@@ -29,9 +29,7 @@ There are many kinds of AutoML, including:
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
 
 ### Neural Architecture Search
-- [Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](https://arxiv.org/abs/2508.15884) (Gu et al. 2025)
 - [AlphaGo Moment for Model Architecture Discovery](https://arxiv.org/abs/2507.18074) (Ling et al. 2025)
-- [Archon: An Architecture Search Framework for Inference-Time Techniques](https://arxiv.org/abs/2409.15254) (Saad-Falcon et al. 2024)
 - [LayerNAS: Neural Architecture Search in Polynomial Complexity](https://arxiv.org/abs/2304.11517) (Fan et al. 2023)
 - [EvoPrompting: Language Models for Code-Level Neural Architecture Search](https://arxiv.org/abs/2302.14838) (Chen et al. 2023)
 - [Neural Architecture Search using Property Guided Synthesis](https://arxiv.org/pdf/2205.03960.pdf) (Jin et al. 2022)
@@ -246,6 +244,8 @@ There are many kinds of AutoML, including:
 - [AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/pdf/2010.15980.pdf) (Shin et al. 2020)
 
 ### LLM
+- [Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](https://arxiv.org/abs/2508.15884) (Gu et al. 2025)
+- [Archon: An Architecture Search Framework for Inference-Time Techniques](https://arxiv.org/abs/2409.15254) (Saad-Falcon et al. 2024)
 - [LLaMA-NAS: Efficient Neural Architecture Search for Large Language Models](https://arxiv.org/abs/2405.18377) (Sarah et al. 2024)
 - [15 times Faster than Llama 2: Introducing DeciLM – NAS-Generated LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/) (Deci Research 2023)
 
