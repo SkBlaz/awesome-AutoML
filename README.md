@@ -29,6 +29,7 @@ There are many kinds of AutoML, including:
 - [Taking Human out of Learning Applications: A Survey on Automated Machine Learning](https://arxiv.org/abs/1810.13306) (Yao et al. 2018)
 
 ### Neural Architecture Search
+- [Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](https://arxiv.org/abs/2508.15884) (Gu et al. 2025)
 - [AlphaGo Moment for Model Architecture Discovery](https://arxiv.org/abs/2507.18074) (Ling et al. 2025)
 - [Archon: An Architecture Search Framework for Inference-Time Techniques](https://arxiv.org/abs/2409.15254) (Saad-Falcon et al. 2024)
 - [LayerNAS: Neural Architecture Search in Polynomial Complexity](https://arxiv.org/abs/2304.11517) (Fan et al. 2023)
